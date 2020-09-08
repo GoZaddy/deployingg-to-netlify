@@ -1,0 +1,21 @@
+{
+  "name": "deploying-to-netlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.htm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "index.htm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoZaddy/deployingg-to-netlify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoZaddy/deployingg-to-netlify/issues"
+  },
+  "homepage": "https://github.com/GoZaddy/deployingg-to-netlify#readme"
+}
